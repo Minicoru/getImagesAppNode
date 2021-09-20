@@ -7,8 +7,6 @@ const request = require('request');
 const sources = require('./sources');
 const fs = require('fs');
 
-const log = console.log;
-
 const scraping = async (url, id, from, to) => {
 	let $ = null;
 

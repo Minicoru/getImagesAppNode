@@ -1,0 +1,40 @@
+{
+  "name": "getimagesappnode",
+  "version": "1.0.0",
+  "description": "App node to get images from a site (objetive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "fly"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minicoru/getImagesAppNode.git"
+  },
+  "keywords": [
+    "download",
+    "images"
+  ],
+  "author": "Mia Nicole Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Minicoru/getImagesAppNode/issues"
+  },
+  "homepage": "https://github.com/Minicoru/getImagesAppNode#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^3.0.0",
+    "node-phantom": "^0.2.5",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2",
+    "scrape-it": "^5.3.2",
+    "socket.io": "^4.2.0",
+    "string-similarity": "^4.0.4",
+    "zlib": "^1.0.5"
+  }
+}

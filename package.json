@@ -33,6 +33,7 @@
     "nodemon": "^2.0.12",
     "request": "^2.88.2",
     "scrape-it": "^5.3.2",
+    "shelljs": "^0.8.4",
     "socket.io": "^4.2.0",
     "string-similarity": "^4.0.4",
     "zlib": "^1.0.5"

@@ -94,3 +94,5 @@ const scraping = async (api, url, id, path, title, from, to) => {
 
 log(`it begin's...`);
 scraping('http://rain.thecomicseries.com', 'comics', 'comicimage', '../downloads/', 'RAIN', 51, 1405);
+
+

@@ -4,7 +4,7 @@
   "description": "App node to get images from a site (objetive)",
   "main": "index.js",
   "scripts": {
-    "test": "fly"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
